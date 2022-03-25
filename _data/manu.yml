@@ -1,0 +1,26 @@
+docs_list_title: StreamCardano home page.
+docs:
+
+- title: News
+  url: /news
+  icon: ico-news
+
+- title: Demos
+  url: /demo
+  icon: ico-exm
+
+- title: Partners
+  url: /partners
+  icon: ico-exm
+
+- title: Docs
+  url: https://streamcardano.readme.io
+  icon: ico-doc
+
+- title: App Login
+  url: /in-progress
+  class: btn-brdr
+
+- title: Signup
+  url: /in-progress
+  class: btn-fill
