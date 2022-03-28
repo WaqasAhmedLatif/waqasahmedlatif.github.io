@@ -35,6 +35,26 @@ html, body{ height:100%; }
 .footer-channel a {color: rgba(255, 255, 255, 0.6); margin: 0 10px; text-transform: uppercase; letter-spacing: 1px;}
 .footer-heading {font-size: 24px; color: #fff; font-weight: 400; margin-top: 20px; }
 
+footer .social-links a {
+    width: 30px;
+    height: 30px;
+    font-size: 14px;
+    line-height: 45px;
+    color: #ffffff;
+    display: inline-block;
+    text-align: center;
+    transition: all .2s ease-in-out;
+    margin: 5px 5px;}
+
+.level-item {
+        align-items: center;
+        display: flex;
+        flex-basis: auto;
+        flex-grow: 0;
+        flex-shrink: 0;
+        justify-content: center;
+    }
+
 @media only screen and (max-device-width: 768px){
 	
 .navbar-left { margin-left: 0;}	
