@@ -6,9 +6,9 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 28 Mar 2022 14:32:05 -0700</pubDate>
-    <lastBuildDate>Mon, 28 Mar 2022 14:32:05 -0700</lastBuildDate>
-    <generator>Jekyll v3.9.0</generator>
+    <pubDate>Fri, 13 May 2022 16:44:30 +0500</pubDate>
+    <lastBuildDate>Fri, 13 May 2022 16:44:30 +0500</lastBuildDate>
+    <generator>Jekyll v4.2.2</generator>
     
       <item>
         <title>Second Catalyst project submission</title>
@@ -19,7 +19,7 @@ moved to finalization stage.&lt;/p&gt;
 
 &lt;p&gt;We also brought up &lt;a href=&quot;https://streamcardano.com&quot;&gt;this web page!&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 14 Mar 2022 07:00:00 -0700</pubDate>
+        <pubDate>Mon, 14 Mar 2022 19:00:00 +0500</pubDate>
         <link>http://localhost:4000/news/2022/03/14/news</link>
         <guid isPermaLink="true">http://localhost:4000/news/2022/03/14/news</guid>
         
@@ -37,7 +37,7 @@ moved to finalization stage.&lt;/p&gt;
 
 &lt;p&gt;We also brought up &lt;a href=&quot;https://streamcardano.com&quot;&gt;this web page!&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 13 Mar 2022 07:00:00 -0700</pubDate>
+        <pubDate>Sun, 13 Mar 2022 19:00:00 +0500</pubDate>
         <link>http://localhost:4000/news/2022/03/13/news</link>
         <guid isPermaLink="true">http://localhost:4000/news/2022/03/13/news</guid>
         
@@ -55,7 +55,7 @@ moved to finalization stage.&lt;/p&gt;
 
 &lt;p&gt;We also brought up &lt;a href=&quot;https://streamcardano.com&quot;&gt;this web page!&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 12 Mar 2022 06:00:00 -0800</pubDate>
+        <pubDate>Sat, 12 Mar 2022 19:00:00 +0500</pubDate>
         <link>http://localhost:4000/partners/2022/03/12/partners</link>
         <guid isPermaLink="true">http://localhost:4000/partners/2022/03/12/partners</guid>
         
@@ -73,7 +73,7 @@ moved to finalization stage.&lt;/p&gt;
 
 &lt;p&gt;We also brought up &lt;a href=&quot;https://streamcardano.com&quot;&gt;this web page!&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 11 Mar 2022 06:00:00 -0800</pubDate>
+        <pubDate>Fri, 11 Mar 2022 19:00:00 +0500</pubDate>
         <link>http://localhost:4000/partners/2022/03/11/partners</link>
         <guid isPermaLink="true">http://localhost:4000/partners/2022/03/11/partners</guid>
         
@@ -91,7 +91,7 @@ moved to finalization stage.&lt;/p&gt;
 
 &lt;p&gt;We also brought up &lt;a href=&quot;https://streamcardano.com&quot;&gt;this web page!&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 10 Mar 2022 06:00:00 -0800</pubDate>
+        <pubDate>Thu, 10 Mar 2022 19:00:00 +0500</pubDate>
         <link>http://localhost:4000/catalyst/2022/03/10/streamcardano-site-up</link>
         <guid isPermaLink="true">http://localhost:4000/catalyst/2022/03/10/streamcardano-site-up</guid>
         
@@ -109,7 +109,7 @@ moved to finalization stage.&lt;/p&gt;
 
 &lt;p&gt;We are now working on improving the proposal.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 22 Jan 2021 03:54:00 -0800</pubDate>
+        <pubDate>Fri, 22 Jan 2021 16:54:00 +0500</pubDate>
         <link>http://localhost:4000/catalyst/2021/01/22/streamchainquery-assessment</link>
         <guid isPermaLink="true">http://localhost:4000/catalyst/2021/01/22/streamchainquery-assessment</guid>
         

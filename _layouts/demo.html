@@ -1,10 +1,11 @@
 ---
-layout: post
+layout: default
 permalink: /news/
 title: Demo Posts
 ---
 
 <div class="container">
+
   {% assign sorted_demos = site.demo | sort: "date" %}
   {% for post in sorted_demos %}
     <article class="post">
