@@ -2,13 +2,68 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>StreamCardano project</title>
-    <description>StreamCardano project home page.
+    <description>Streamlines Cardano dApp Development
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 15 May 2022 14:57:40 +0500</pubDate>
-    <lastBuildDate>Sun, 15 May 2022 14:57:40 +0500</lastBuildDate>
+    <pubDate>Tue, 24 May 2022 00:30:21 +0500</pubDate>
+    <lastBuildDate>Tue, 24 May 2022 00:30:21 +0500</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>CyberTech</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://mocossiland.cybertechpp.io/&quot;&gt;CYbertech team&lt;/a&gt; wants to build on the StreamCardano platform.&lt;/p&gt;
+
+&lt;p&gt;&lt;img data-src=&quot;/&quot; alt=&quot;&quot; data-srcset=&quot;    /assets/images/resized/20/CYberTechClear-logo.png 20w,    /assets/images/resized/480/CYberTechClear-logo.png 480w,    /assets/images/resized/800/CYberTechClear-logo.png 800w,    /assets/images/resized/1400/CYberTechClear-logo.png 1400w,&quot; class=&quot;lazyload img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;CyberTech is providing advanced analytical data, tools, and charts for top level Cardano NFT Projects.
+Their goal is not to support every CNFT project, but only those that the community has shown an interest in.&lt;/p&gt;
+
+&lt;p&gt;They plan to dive deeper into Cardano network data to analyze and display useful data to the user along with creating useful tools.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 22 May 2022 19:00:00 +0500</pubDate>
+        <link>http://localhost:4000/partners/2022/05/22/cybertech</link>
+        <guid isPermaLink="true">http://localhost:4000/partners/2022/05/22/cybertech</guid>
+        
+        
+        <category>partners</category>
+        
+      </item>
+    
+      <item>
+        <title>StreamCardano.com funded by Catalyst</title>
+        <description>&lt;p&gt;We start &lt;a href=&quot;https://www.streamcardano.com&quot;&gt;StreamCardano&lt;/a&gt; project.
+&lt;a href=&quot;https://drive.google.com/file/d/1s3jCE7pmoUujy3ASMia-UhFl2KLi_hnf/view&quot;&gt;Catalyst Fund8&lt;/a&gt; will fund the project for the first year with 239k$ in ADA.&lt;/p&gt;
+
+&lt;p&gt;We currently work on a prototype for a &lt;a href=&quot;https://cardano.ideascale.com/c/idea/396549&quot;&gt;platform for serverless hosting of Cardano dApps&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;If you develop a Cardano dApp, &lt;a href=&quot;mailto:streamcardano@migamake.com&quot;&gt;please contact us to enter closed beta&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 13 May 2022 19:00:00 +0500</pubDate>
+        <link>http://localhost:4000/news/2022/05/13/funded</link>
+        <guid isPermaLink="true">http://localhost:4000/news/2022/05/13/funded</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>Athena</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://youtu.be/DXuGpw6KyKI&quot;&gt;Athena team&lt;/a&gt; wants to build on the StreamCardano platform.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/partners/athena-logo.png&quot; alt=&quot;Athena logo&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 22 Mar 2022 19:00:00 +0500</pubDate>
+        <link>http://localhost:4000/partners/2022/03/22/athena</link>
+        <guid isPermaLink="true">http://localhost:4000/partners/2022/03/22/athena</guid>
+        
+        
+        <category>partners</category>
+        
+      </item>
     
       <item>
         <title>Second Catalyst project submission</title>
@@ -29,92 +84,18 @@ moved to finalization stage.&lt;/p&gt;
       </item>
     
       <item>
-        <title>Second Catalyst</title>
-        <description>&lt;p&gt;Today our &lt;a href=&quot;https://cardano.ideascale.com/c/idea/396549&quot;&gt;second submission&lt;/a&gt;
-moved to finalization stage.&lt;/p&gt;
+        <title>AdaSign</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://cardano.ideascale.com/c/idea/401010&quot;&gt;AdaSign&lt;/a&gt; project plans to build on StreamCardano platform.&lt;/p&gt;
 
-&lt;p&gt;This proposal includes all necessary milestones to reach full commercial viability, and supporting our users for the first 6 months.&lt;/p&gt;
+&lt;p&gt;It is another project of &lt;a href=&quot;https://www.migamake.com&quot;&gt;Migamake&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;We also brought up &lt;a href=&quot;https://streamcardano.com&quot;&gt;this web page!&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 13 Mar 2022 19:00:00 +0500</pubDate>
-        <link>http://localhost:4000/news/2022/03/13/news</link>
-        <guid isPermaLink="true">http://localhost:4000/news/2022/03/13/news</guid>
-        
-        
-        <category>news</category>
-        
-      </item>
-    
-      <item>
-        <title>Catalyst project submission</title>
-        <description>&lt;p&gt;Today our &lt;a href=&quot;https://cardano.ideascale.com/c/idea/396549&quot;&gt;second submission&lt;/a&gt;
-moved to finalization stage.&lt;/p&gt;
-
-&lt;p&gt;This proposal includes all necessary milestones to reach full commercial viability, and supporting our users for the first 6 months.&lt;/p&gt;
-
-&lt;p&gt;We also brought up &lt;a href=&quot;https://streamcardano.com&quot;&gt;this web page!&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 12 Mar 2022 19:00:00 +0500</pubDate>
-        <link>http://localhost:4000/partners/2022/03/12/partners</link>
-        <guid isPermaLink="true">http://localhost:4000/partners/2022/03/12/partners</guid>
-        
-        
-        <category>partners</category>
-        
-      </item>
-    
-      <item>
-        <title>Second Catalyst project submission</title>
-        <description>&lt;p&gt;Today our &lt;a href=&quot;https://cardano.ideascale.com/c/idea/396549&quot;&gt;second submission&lt;/a&gt;
-moved to finalization stage.&lt;/p&gt;
-
-&lt;p&gt;This proposal includes all necessary milestones to reach full commercial viability, and supporting our users for the first 6 months.&lt;/p&gt;
-
-&lt;p&gt;We also brought up &lt;a href=&quot;https://streamcardano.com&quot;&gt;this web page!&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 11 Mar 2022 19:00:00 +0500</pubDate>
-        <link>http://localhost:4000/partners/2022/03/11/partners</link>
-        <guid isPermaLink="true">http://localhost:4000/partners/2022/03/11/partners</guid>
-        
-        
-        <category>partners</category>
-        
-      </item>
-    
-      <item>
-        <title>Second Catalyst project submission</title>
-        <description>&lt;p&gt;Today our &lt;a href=&quot;https://cardano.ideascale.com/c/idea/396549&quot;&gt;second submission&lt;/a&gt;
-moved to finalization stage.&lt;/p&gt;
-
-&lt;p&gt;This proposal includes all necessary milestones to reach full commercial viability, and supporting our users for the first 6 months.&lt;/p&gt;
-
-&lt;p&gt;We also brought up &lt;a href=&quot;https://streamcardano.com&quot;&gt;this web page!&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Thu, 10 Mar 2022 19:00:00 +0500</pubDate>
-        <link>http://localhost:4000/catalyst/2022/03/10/streamcardano-site-up</link>
-        <guid isPermaLink="true">http://localhost:4000/catalyst/2022/03/10/streamcardano-site-up</guid>
+        <link>http://localhost:4000/partners/2022/03/10/adasign</link>
+        <guid isPermaLink="true">http://localhost:4000/partners/2022/03/10/adasign</guid>
         
         
-        <category>catalyst</category>
-        
-      </item>
-    
-      <item>
-        <title>First Catalyst project submission</title>
-        <description>&lt;p&gt;Today we got our first Community Advisor Assessments.
-&lt;a href=&quot;https://cardano.ideascale.com/c/idea/383011&quot;&gt;We got a whopping 4.5 out of 5.0&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Advisors noted that it would be better to expand the grant scope to include all milestones - work to do for the &lt;a href=&quot;https://cardano.ideascale.com/c/idea/396549&quot;&gt;next stage&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;We are now working on improving the proposal.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 22 Jan 2021 16:54:00 +0500</pubDate>
-        <link>http://localhost:4000/catalyst/2021/01/22/streamchainquery-assessment</link>
-        <guid isPermaLink="true">http://localhost:4000/catalyst/2021/01/22/streamchainquery-assessment</guid>
-        
-        
-        <category>catalyst</category>
+        <category>partners</category>
         
       </item>
     
